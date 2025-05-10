@@ -33,9 +33,18 @@ module.exports = {
         200: '#666876',
         300: '#191d31',
       },
-      danger: '#F75555'
+      danger: '#F75555',
+
+      white: {
+      DEFAULT: '#FFFFFF',
+      100: '#F7F8FA',
+      200: '#EDEFF2',
+      300: '#D9DBE1',
+    },
       
-    }
+    },
+
+    
   },
   plugins: [],
   important: 'html',

@@ -35,6 +35,7 @@
     "experiments": {
       "typedRoutes": true
     },
+    "expo-font": {
     "fonts": {
       "Rubik-Bold": "./assets/fonts/Rubik-Bold.ttf",
       "Rubik-ExtraBold": "./assets/fonts/Rubik-ExtraBold.ttf",
@@ -43,5 +44,6 @@
       "Rubik-Regular": "./assets/fonts/Rubik-Regular.ttf",
       "Rubik-SemiBold": "./assets/fonts/Rubik-SemiBold.ttf"
     }
+  }
   }
 }
